@@ -18,7 +18,7 @@
 
 - if you use browser to connect instead of curl in the last step, you will be automatically redirected
 
-#### @TODO use go modules
+#### --@TODO use go modules--
 #### the onlu external dependency is the redis-driver. rest has been implemented using the standard library
 #### the code is commented for additional information
 
